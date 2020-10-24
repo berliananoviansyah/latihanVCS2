@@ -45,3 +45,17 @@ Kelas : TI.20.A1
 * Git clone [url], perintah untuk membuat working directory yang diambil dari repository server
 
 * Git remote add origin [url], perintah untuk menambah remote server/repository server pada local repository (working directory)
+
+## Membuat Repository Local
+
+* Buka directory aktif, misal : d:/labs_programan (buka menggunakan Windows Explorer)
+
+
+* Klik kanan pada directory aktif tersebut, dan pilih menut Git bash, sehingga muncul Git bash, sehingga muncul Git bash command
+
+* Buat directory project praktikum pertama dengan nama latihanVCS2
+
+* Sehingga terbentuk satu directory baru dibawahnya, selanjutnya masuk ke dalam directory tersebut dengan perintah cd (change directory)
+
+* Directory aktif menjadi : d:/labs_pemrograman1/latihanVCS2 $ mkdir latihanVCS2 $ cd latihanVCS
+
