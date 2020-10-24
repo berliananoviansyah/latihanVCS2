@@ -17,3 +17,7 @@ Kelas : TI.20.A1
 * kemudian unduh git sesuai dengan arsitektur komputer kita. unduh sesuai kebutuhan PC anda.
 
 ![download git-bit](coding-git/git-bit.PNG)
+
+* Git sudah terpasang di windows, untuk mencobanya, silahkan buka cmd atau powershell, kemudian ketik perintah git --version.
+
+![download git version](coding-git/git-version.PNG)
