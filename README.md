@@ -67,3 +67,10 @@ Kelas : TI.20.A1
 
 * pada directory tersebut, semua perubahan pada working directory akan disimpan. $ git init
 
+## Menambah (menyimpan perubahan ke database)
+
+* untuk membuat file dapat menggunakan text editor, lalu menyimpan file nya pada direktor aktif (repository)
+
+* disini kita akan coba buat 1 file bernama READme.md (text file)
+
+* 'file READme.md berhasil ditambahkan, $ git add READme.md
