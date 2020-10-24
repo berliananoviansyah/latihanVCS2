@@ -67,10 +67,16 @@ Kelas : TI.20.A1
 
 * pada directory tersebut, semua perubahan pada working directory akan disimpan. $ git init
 
-## Menambah (menyimpan perubahan ke database)
+## menambahkan file baru pada repository
 
 * untuk membuat file dapat menggunakan text editor, lalu menyimpan file nya pada direktor aktif (repository)
 
 * disini kita akan coba buat 1 file bernama READme.md (text file)
 
-* 'file READme.md berhasil ditambahkan, $ git add READme.md
+* `File READme.md berhasil dibuat, $ echo "#latihanVCS2">>READme.md` <br>
+
+![download git-latihanVCS2](coding-git/git-latihanvcs.PNG)
+
+* untuk menambahkan file yang baru saja dibuat tersebut gunakan perintah "git add ."
+
+* File READme.md berhasil ditambahkan. $ git add READme.md
