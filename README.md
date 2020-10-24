@@ -80,3 +80,11 @@ Kelas : TI.20.A1
 * untuk menambahkan file yang baru saja dibuat tersebut gunakan perintah "git add ."
 
 * File READme.md berhasil ditambahkan. $ git add READme.md
+
+## Commit (Menyimpan perubahan ke database)
+
+* untuk menyimpan perubahan yang ada kedalam database repository local, gunakan perintah git commit -m "komentar commit"
+
+* `perubahan berhasil disimpan. $ git commit -m "update READme.md"` <br>
+
+![download git-commit](coding-git/git-commit.PNG)
