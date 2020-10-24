@@ -59,3 +59,11 @@ Kelas : TI.20.A1
 
 * Directory aktif menjadi : d:/labs_pemrograman1/latihanVCS2 $ mkdir latihanVCS2 $ cd latihanVCS
 
+## Membuat repository local 
+
+* Jalankan  perintah git init, untuk membuat repository local.
+
+* Repository baru berhasil di inisialisasi, dengan terbentuk satu directory hidden dengan nama.git
+
+* pada directory tersebut, semua perubahan pada working directory akan disimpan. $ git init
+
