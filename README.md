@@ -75,7 +75,7 @@ Kelas : TI.20.A1
 
 * `File READme.md berhasil dibuat, $ echo "#latihanVCS2">>READme.md` <br>
 
-![download git-latihanVCS2](coding-git/git-latihanvcs.PNG)
+![download git-latihanVCS2](coding-git/git-latihanVCS2.PNG)
 
 * untuk menambahkan file yang baru saja dibuat tersebut gunakan perintah "git add ."
 
