@@ -8,3 +8,8 @@ NIM : 312010373
 
 Kelas : TI.20.A1
 
+## Langkah-langkah Penggunaan Git
+
+* Langkah pertama Download Git, buka website resminya git [click here](https://git-scm.com/)
+
+![downlaod git-scm](coding-git/git-scm.PNG)
