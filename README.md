@@ -10,6 +10,7 @@ Kelas : TI.20.A1
 
 ## Langkah-langkah Penggunaan Git
 
+
 * Langkah pertama Download Git, buka website resminya git [click here](https://git-scm.com/)
 
 ![downlaod git-scm](coding-git/git-scm.PNG)
@@ -21,3 +22,26 @@ Kelas : TI.20.A1
 * Git sudah terpasang di windows, untuk mencobanya, silahkan buka cmd atau powershell, kemudian ketik perintah git --version.
 
 ![download git version](coding-git/git-version.PNG)
+
+## Menambahkan Global config
+
+* Pada saat pertama kali menggunakan git, perlu dilakukan konfigurasi user.name dan user.email
+
+* konfigurasi ini bisa dilakukan global repository atau individual repository
+
+* apabila belum melakukan konfigurasi, akan mengakibatkan terjadi kegagalan saat menjalankan perintah git commit
+
+
+## Perintah Dasar Git
+
+* Git init, perintah untuk membuat repository local
+
+* "git add ." perintah untuk menyimpan perubahan kedalam database git
+
+* "git commit -m" perintah untuk menyimpan perubahan kedalam database git
+
+* "Git push" perintah untuk mengirim perubahan pada repository local menuju server repository
+
+* Git clone [url], perintah untuk membuat working directory yang diambil dari repository server
+
+* Git remote add origin [url], perintah untuk menambah remote server/repository server pada local repository (working directory)
