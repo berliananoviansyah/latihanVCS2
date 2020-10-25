@@ -113,5 +113,13 @@ Kelas : TI.20.A1
 
 * ![download git-push](coding-git/git-push.PNG)
 
+## Melihat Hasilnya pada server repository
+
+* Buka laman github.com, arahkanpada repository nya
+
+* Maka perubahan akan terlihat pada laman tersebut
+
+![download github-view](coding-git/git-view.PNG)
+
 
 
