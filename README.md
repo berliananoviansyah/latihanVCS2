@@ -121,5 +121,13 @@ Kelas : TI.20.A1
 
 ![download github-view](coding-git/git-view.PNG)
 
+## Clone Repository
+
+* Clone repository, pada dasarnya adalah meng-copy repository server dan secara otomatis membuat satu directory sesuai dengan nama repository nya (working directory)
+
+* `Untuk melakukan cloning, gunakan perintah "git clone"` <br>
+
+![download git-clone](coding-git/git-clone.PNG)
+
 
 
