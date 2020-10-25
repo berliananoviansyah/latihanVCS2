@@ -88,3 +88,14 @@ Kelas : TI.20.A1
 * `perubahan berhasil disimpan. $ git commit -m "update READme.md"` <br>
 
 ![download git-commit](coding-git/git-commit.PNG)
+
+## Membuat repository server
+
+* server repository yang akan kita gunakan adalah [click here](http://github.com)
+
+* anda harus membuat akun terlebih dahulu
+
+* pada halaman github, klik ikon start a project, atau dari menu (icon+) klik "New Repository" <br>
+
+* [download github-newrepository](coding-git/github-newrepo.PNG)
+
