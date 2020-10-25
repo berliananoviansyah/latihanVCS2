@@ -129,5 +129,17 @@ Kelas : TI.20.A1
 
 ![download git-clone](coding-git/git-clone.PNG)
 
+## Kegunaan file READme.md
 
+* Apabila kita menggunakan github untuk memberikan penjelasan awal pada project yang kita buat, maka dapat menggunakan sebuah file yang bernama READme.md
+
+* Pada file tersebut kita dapat membuat dokumentasi dari setiap project yang kita buat untuk memberikan penjelasan atau sekadar cara penggunaan dari aplikasi yang kita kembangkan.
+
+* Penulisan READme.md berbasis text, dan untuk formatnya menggunakan markdown format.
+
+* Untuk lebih jelasnya, dapat anda pelajari cara penggunaan markdown pada [url] berikut :
+
+[click here](https://markdownguide.org/basic-syntax)
+
+#                                        TERIMA KASIH
 
