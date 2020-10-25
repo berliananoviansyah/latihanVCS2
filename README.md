@@ -105,5 +105,13 @@ Kelas : TI.20.A1
 
 * Untuk menambah remote repository server, gunakan perintah git remote add original [url] $ git remote add origin [click here](https://github.com/berliananoviansyah/latihanVCS2)
 
+## Push (mengirim perubahan ke server)
+
+* untuk mengirim perubahan pada local repository ke server gunakan perintah "git push"
+
+* `Perintah ini akan meminta memasukan username dan password pada akun github.com $ git push -u origin master` <br>
+
+* ![download git-push](coding-git/git-push.PNG)
+
 
 
